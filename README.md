@@ -26,9 +26,10 @@ You can install the required dependencies using `pip`:
 ```bash
 pip install requests beautifulsoup4
 
-```python
+```bash
 python3 laravel_brute.py
 
+## Disclaimers
 Disclaimer: This tool should only be used on systems where you have explicit permission to conduct penetration testing. Unauthorized use of this tool is illegal and unethical.
 
 
