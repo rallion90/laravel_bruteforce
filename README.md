@@ -26,7 +26,7 @@ You can install the required dependencies using `pip`:
 ```bash
 pip install requests beautifulsoup4
 
-```bash
+To run the scrit
 python3 laravel_brute.py
 
 ## Disclaimers
